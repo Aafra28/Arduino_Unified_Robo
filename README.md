@@ -46,5 +46,5 @@
 - **Demonstration of Potential:**
   - The ArduinoUnified Robo Car showcases the potential and versatility of Arduino-based robotics.
   - By incorporating multiple functionalities into a unified platform, it effectively handles diverse challenges and accomplishes various objectives.
-  This robot car offers three control methods:
+    
 
